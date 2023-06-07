@@ -2,3 +2,7 @@
 
 
 Learning AI in 1 Day
+
+
+Title: Generative AI: Empowering Creativity and Innovation
+
